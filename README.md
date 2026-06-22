@@ -81,5 +81,5 @@ This makes updates fast and consistent across the site.
 
 **Gautam Kumar**
 
-- GitHub: https://github.com/Sourav1331
-- LinkedIn: https://linkedin.com/in/sourav-danyal-a8b35232a
+- GitHub: https://github.com/Gautam-Kumar77
+- LinkedIn: https://www.linkedin.com/in/gautamkumar7/
